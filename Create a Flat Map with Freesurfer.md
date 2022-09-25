@@ -10,8 +10,7 @@ Read the left hemisphere in Freesurfer7
 ```
 tksurferfv  $Subject_id lh inflated
 ```
-Cut the inflated surface like this.
-![Cut](https://imgbb.com/QMYyDxB)
+Cut the inflated surface.
 Save it as a patch as `lh.full.patch.3d`.
 # Set Up Freesurfer6
 Set up the home directory and configure Freesurfer6.
